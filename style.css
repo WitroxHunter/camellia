@@ -159,11 +159,11 @@ img.news {
 }
 
 #footer {
-    position: absolute;
-    bottom: 1px;
+    position: fixed;
+    bottom: 0px;
     margin: 0px;
     background-color:rgba(48, 48, 58, 0.575);
-    height: 20px;
+    height: 2%;
     font-family: czcionka;
     width: 100%;
 }
