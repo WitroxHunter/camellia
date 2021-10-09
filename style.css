@@ -30,11 +30,11 @@ button {
     background-color: white;
 }
 
-.about:hover {background-color: #e0e0e0; transform: scale(1.04, 1.04);}
-.home:hover {background-color: #e0e0e0; transform: scale(1.04, 1.04)}
-.music:hover {background-color: #e0e0e0; transform: scale(1.04, 1.04)}
-.contact:hover {background-color: #e0e0e0; transform: scale(1.04, 1.04)}
-.website:hover {background-color: #e0e0e0; transform: scale(1.04, 1.04)}
+.about:hover {cursor: pointer; background-color: #e0e0e0; transform: scale(1.04, 1.04);}
+.home:hover {cursor: pointer; background-color: #e0e0e0; transform: scale(1.04, 1.04)}
+.music:hover {cursor: pointer; background-color: #e0e0e0; transform: scale(1.04, 1.04)}
+.contact:hover {cursor: pointer; background-color: #e0e0e0; transform: scale(1.04, 1.04)}
+.website:hover {cursor: pointer; background-color: #e0e0e0; transform: scale(1.04, 1.04)}
 .about:active {background-color: #e0e0e0;transform: translateY(4px);}
 .home:active {background-color: #e0e0e0;transform: translateY(4px);}
 .music:active {background-color: #e0e0e0;transform: translateY(4px);}
